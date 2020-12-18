@@ -6,3 +6,4 @@ This scripts will make an infinite landscape for the player. The far meshes will
 The mesh are made by creating a 2D mesh of Perlin Noise and then giving it a colormap according to the height of the perlin noise. 
 
 
+
